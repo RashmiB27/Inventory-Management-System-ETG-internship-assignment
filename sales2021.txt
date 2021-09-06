@@ -1,7 +1,2 @@
-sales 2021
-
-transaction id : 827421f1-0ed7-11ec-84a3-a0d37a3ee0f8 ,name : chocolate , price : 20 ,saled product : 1 ,individual amount : 20 ,time : 2021-09-06 11:28:51.106915 
-transaction id : 2359eec8-0ed8-11ec-995a-a0d37a3ee0f8 ,name : wheat , price : 3000 ,saled product : 3 ,individual amount : 9000 ,time : 2021-09-06 11:33:21.048395 
-transaction id : 266e9375-0ed8-11ec-a9e9-a0d37a3ee0f8 ,name : basmati rice , price : 150 ,saled product : 4 ,individual amount : 600 ,time : 2021-09-06 11:33:26.215845 
-transaction id : 3b951d72-0ed8-11ec-b9ce-a0d37a3ee0f8 ,name : coffee powder , price : 10 ,saled product : 3 ,individual amount : 30 ,time : 2021-09-06 11:34:01.700568 
-transaction id : 69448925-0ef6-11ec-833c-a0d37a3ee0f8 ,name : chocolate , price : 20 ,saled product : 1 ,individual amount : 20 ,time : 2021-09-06 15:10:03.308651 
+transaction id : 850a6cc4-0f24-11ec-83ff-0242ac1c0002 ,name : chocolate , price : 20 ,saled product : 1 ,individual amount : 20 ,time : 2021-09-06 15:10:06.693814 
+transaction id : 8a001e0e-0f24-11ec-83ff-0242ac1c0002 ,name : pasta , price : 15 ,saled product : 2 ,individual amount : 30 ,time : 2021-09-06 15:10:15.019325 
